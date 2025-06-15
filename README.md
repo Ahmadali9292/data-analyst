@@ -13,4 +13,4 @@ Power BI dashboard for sales analysis
 
 ## 📫 Contact Me
 - 📧 Email: ahmad.ali.power.bi@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/yourname](www.linkedin.com/in/ahmad-ali-a06398158)
+- 💼 LinkedIn: [linkedin.com/in/yourname](ahmad-ali-data-analyst)
